@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h3>  hello , i`m Raphael  </h3>
-  <img src="https://habrastorage.org/webt/l8/wn/x0/l8wnx0ip3hxoi80bwvs5tfeqso0.gif" width="500"/>
+  <img src="https://habrastorage.org/webt/l8/wn/x0/l8wnx0ip3hxoi80bwvs5tfeqso0.gif" width="600"/>
 <h2> my stack  </h2>
 <h3> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ЦВЕТ ЛОГОТИПА"/>
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=ЦВЕТ ЛОГОТИПА"/>
